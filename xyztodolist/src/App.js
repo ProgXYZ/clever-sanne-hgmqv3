@@ -1,5 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
+import Rt2 from "./TCList.js";
 
 function App() {
   return (
@@ -17,8 +18,7 @@ function App() {
         >
           Learn React
         </a>
-        <div>Test list</div>
-        <div>Todo item 1</div>
+        <Rt2 />
       </header>
     </div>
   );
