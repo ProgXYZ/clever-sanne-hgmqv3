@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
         <div>Test list</div>
+        <div>Todo item 1</div>
       </header>
     </div>
   );
